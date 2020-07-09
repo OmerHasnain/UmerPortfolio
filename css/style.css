@@ -222,6 +222,15 @@ nav ul li a {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.myText {
+  color: #ffffff;
+  text-align: left;
+  font-size: 24px;
+  margin-top: -40px;
+  margin-left: 0px;
+  text-align: center;
+  font-family: "Poppins", helvetica;
+}
 
 .logo {
   float: left;
